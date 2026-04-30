@@ -22,20 +22,17 @@ async function getAboutGithub(){
             <h2>Sobre mim</h2>
 
             <p>
-            Sou Desenvolvedor Full Stack, graduado em Análise e Desenvolvimento de Sistemas e atualmente me especializando em JavaScript pelo bootcamp da Generation Brasil.
-            Tenho experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end, com foco na construção de APIs REST escaláveis e bem estruturadas. Trabalho com JavaScript e TypeScript, utilizando tecnologias como React, NestJS, HTML, CSS e SQL.
-            Aplico conceitos de Programação Orientada a Objetos, boas práticas de código, versionamento com Git e organização de projetos, sempre buscando escrever código limpo, reutilizável e eficiente.
+            Sou Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas, com foco em JavaScript. Tenho experiência no desenvolvimento de aplicações web, atuando no front-end e back-end, com tecnologias como React, NestJS, TypeScript, HTML, CSS e SQL.
             </p>
 
             <p>
-            Minhas experiências profissionais anteriores contribuíram para o desenvolvimento de habilidades como proatividade, adaptabilidade, trabalho em equipe, análise de dados e aprendizado contínuo — competências que aplico diariamente na área de tecnologia.
-            Sou movido por desafios e pelo interesse em transformar ideias em soluções práticas, funcionais e que gerem valor real.
+            Busco sempre aplicar boas práticas, código limpo e organização de projetos. Sou proativo, adaptável e motivado por desafios, com o objetivo de transformar ideias em soluções práticas que gerem valor real.
             </p>
 
             <div class="about-buttons-data">
             <div class="buttons-container">
                 <a href="${perfil.html_url}" target="_blank" class="botao">Ver GitHub</a>
-                <a href="assets/pdf/CV Gabriel Coutinho.pdf" target="_blank" class="botao-outline">Currículo</a>
+                <a href="https://docs.google.com/document/d/1BEG9WkFwTnLZq8gL6D0wI-477a0vgYgk/edit?usp=sharing&ouid=112184729947141583967&rtpof=true&sd=true" target="_blank" class="botao-outline">Currículo</a>
             </div>
 
             <div class="data-container">
