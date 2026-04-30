@@ -22,17 +22,17 @@ async function getAboutGithub(){
             <h2>Sobre mim</h2>
 
             <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Dicta assumenda, quasi sit reiciendis nihil id enim facilis
-            iste exercitationem nostrum minus ipsa neque officia dolorum
-            ea optio est quis magni.
+            Sou Desenvolvedor Full Stack, graduado em Análise e Desenvolvimento de Sistemas e atualmente me especializando em JavaScript pelo bootcamp da Generation Brasil.
+ 
+            Tenho experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end, com foco na construção de APIs REST escaláveis e bem estruturadas. Trabalho com JavaScript e TypeScript, utilizando tecnologias como React, NestJS, HTML, CSS e SQL.
+            
+            Aplico conceitos de Programação Orientada a Objetos, boas práticas de código, versionamento com Git e organização de projetos, sempre buscando escrever código limpo, reutilizável e eficiente.
             </p>
 
             <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-            Dicta assumenda, quasi sit reiciendis nihil id enim facilis
-            iste exercitationem nostrum minus ipsa neque officia dolorum
-            ea optio est quis magni.
+            Minhas experiências profissionais anteriores contribuíram para o desenvolvimento de habilidades como proatividade, adaptabilidade, trabalho em equipe, análise de dados e aprendizado contínuo — competências que aplico diariamente na área de tecnologia.
+            
+            Sou movido por desafios e pelo interesse em transformar ideias em soluções práticas, funcionais e que gerem valor real.
             </p>
 
             <div class="about-buttons-data">
